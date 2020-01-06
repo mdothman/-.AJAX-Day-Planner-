@@ -85,3 +85,6 @@ You are required to submit the following:
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+
+I totally got discouraged because I created a function and it wouldn't work, even though it made sense. It turns out that determination can go way farther than any amount of knowledge a person has, that and a bottle of mountain dew.
